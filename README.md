@@ -23,8 +23,8 @@ Ensure the following are installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/orders_external_api.git
+   cd orders_external_api
    ```
 
 2. **Install PHP Dependencies**
