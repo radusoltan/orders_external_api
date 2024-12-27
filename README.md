@@ -23,7 +23,7 @@ Ensure the following are installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/orders_external_api.git
+   git clone https://github.com/radusoltan/orders_external_api.git
    cd orders_external_api
    ```
 
